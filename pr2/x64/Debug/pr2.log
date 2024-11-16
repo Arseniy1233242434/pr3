@@ -1,0 +1,10 @@
+﻿  pr2.cpp
+C:\Users\st310-04\Documents\Kuzminpr-31\pr2\pr2.cpp(84,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\st310-04\Documents\Kuzminpr-31\pr2\pr2.cpp(87,10): error C2371: a: переопределение; различные базовые типы
+  C:\Users\st310-04\Documents\Kuzminpr-31\pr2\pr2.cpp(77,13):
+   см. объявление "a"
+  
+C:\Users\st310-04\Documents\Kuzminpr-31\pr2\pr2.cpp(88,7): error C2039: "print": не является членом "Product".
+  C:\Users\st310-04\Documents\Kuzminpr-31\pr2\pr2.cpp(6,8):
+   см. объявление "Product"
+  
